@@ -11,3 +11,10 @@ menuClose.addEventListener("click", () => {
   overlay.classList.remove("overlay--active");
 });
 
+
+// var let const 
+// how to use variables 
+//how to class variables
+// other factors of javascript
+//how to use functions
+
